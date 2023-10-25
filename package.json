@@ -1,7 +1,7 @@
 {
 	"author": "Andre Arriaran",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "freecodecamp" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
